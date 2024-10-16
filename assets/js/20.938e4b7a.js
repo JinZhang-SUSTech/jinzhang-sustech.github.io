@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{282:function(t,n,e){},299:function(t,n,e){"use strict";e(282)},310:function(t,n,e){"use strict";e.r(n);var r={props:["image","cv","frontmatter"],computed:{data(){return this.frontmatter}}},u=(e(299),e(14)),o=Object(u.a)(r,(function(){return(0,this._self._c)("div")}),[],!1,null,null,null);n.default=o.exports}}]);
